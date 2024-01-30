@@ -4,7 +4,7 @@ public class aleatorio {
 
     public static void main(String[] args) {
 
-        byte aleatorio = (byte) (Math.random()*100);
+        byte aleatorio = (byte) (Math.random()*100); //Genera un numero random
         byte c=0;
         byte n_i = 0;
         String m=" ";

@@ -10,6 +10,8 @@ public abstract class Pokemon {
 
     protected abstract void atacarPlacaje();
 
-    
+    protected abstract void atacarArañazo();
+
+    protected abstract void atacarMordisco();
 
 }
